@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Divya%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-### Computer Engineering Student &nbsp;·&nbsp; AI & Machine Learning &nbsp;·&nbsp; Pune, India
+### Software Engineering Student &nbsp;·&nbsp; AI & Machine Learning Enthusiast
 
 *I'm still learning. But I build while I learn.*
 
@@ -144,27 +144,16 @@ Full-stack platform connecting citizens to municipal systems. Auto-categorises a
 
 ---
 
-## 📜 Certifications
-
-| Certification | Issuer |
-|---|---|
-| Machine Learning with Python | IBM |
-| Generative AI: Introduction and Applications | IBM |
-| DevOps, DataOps & MLOps | Coursera |
-| Deep Learning for Developers | Infosys Springboard |
-| Google AI Essentials | Coursera |
-
----
 
 ## 📫 Let's Connect
 
-I'm currently looking for internship opportunities in AI/ML and software engineering.
+I'm currently looking for internship opportunities in AI/ML and Software Engineering.
 If you're working on something interesting, I'd be glad to have a conversation.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divya-singh-368557306)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divi.singh121@gmail.com)
 
-**Open to:** internships &nbsp;·&nbsp; research collaborations &nbsp;·&nbsp; interesting problems
+**Open to:** Internships &nbsp;·&nbsp; Research Collaborations &nbsp;·&nbsp; Interesting Problems
 
 ---
 

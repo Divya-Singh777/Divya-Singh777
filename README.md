@@ -6,6 +6,7 @@
 
 *I'm still learning. But I build while I learn.*
 
+
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divya-singh-368557306)
@@ -19,11 +20,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a third-year Computer Engineering student at MIT Academy of Engineering, Pune, specialising in AI and machine learning.
+Third-year CS student at MIT-AOE Pune, building in the AI/ML space.
 
-Most of what I know came from building things — reading a concept, then immediately trying to use it, breaking it, and figuring out why. That process is slow. It's also the only one that works for me.
-
-Right now I'm focused on end-to-end systems: not just training models, but deploying them, explaining their decisions, and making them useful to real people. I'm preparing to step into my first professional role, and I'm looking for an environment where I can contribute, be challenged, and grow.
+I don't just read about concepts — I build with them, break them, then figure out why. That's how I actually learn. My focus right now is on systems that don't just predict, but deploy, explain, and work for real users. Looking for my first internship where I can contribute and grow fast.
 
 ---
 
@@ -103,56 +102,59 @@ Full-stack platform connecting citizens to municipal systems. Auto-categorises a
 
 ## 🧰 Technical Skills
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**Languages**
 
-**ML / AI**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-6C63FF?style=flat-square)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+**ML / AI Frameworks**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-6C63FF?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Specialisations**
 
-![NLP](https://img.shields.io/badge/NLP-0A66C2?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-6C63FF?style=flat-square)
-![Explainable AI](https://img.shields.io/badge/Explainable_AI-1D9E75?style=flat-square)
-![MLOps](https://img.shields.io/badge/MLOps-EA4335?style=flat-square)
-![Multimodal DL](https://img.shields.io/badge/Multimodal_DL-D85A30?style=flat-square)
-
-</td>
-<td valign="top" width="50%">
+![NLP](https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge)
+![Explainable AI](https://img.shields.io/badge/Explainable_AI-1D9E75?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-EA4335?style=for-the-badge)
+![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-D85A30?style=for-the-badge)
 
 **Backend & Deployment**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-</tr>
-</table>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
-## 📫 Let's Connect
+## 📜 Certifications
 
-I'm currently looking for internship opportunities in AI/ML and Software Engineering.
-If you're working on something interesting, I'd be glad to have a conversation.
+| Certification | Issuer |
+|---|---|
+| Machine Learning with Python | IBM |
+| Generative AI: Introduction and Applications | IBM |
+| DevOps, DataOps & MLOps | Coursera |
+| Deep Learning for Developers | Infosys Springboard |
+| Google AI Essentials | Coursera |
 
-LinkedIn : [https://linkedin.com/in/divya-singh-368557306](https://www.linkedin.com/in/divya-singh-368557306/)
-Email : divi.singh121@gmail.com
+---
 
-**Open to :** Internships &nbsp;·&nbsp; Research Collaborations &nbsp;·&nbsp; Interesting Problems
+## 📫 Reach Me
+
+- 📧 &nbsp;**Email:** [divi.singh121@gmail.com](mailto:divi.singh121@gmail.com)
+- 💼 &nbsp;**LinkedIn:** [linkedin.com/in/divya-singh-368557306](https://linkedin.com/in/divya-singh-368557306)
+- 🐙 &nbsp;**GitHub:** [github.com/Divya-Singh777](https://github.com/Divya-Singh777)
+
+I'm open to:
+- internships in AI/ML and Software engineering
+- research collaborations
+- interesting problems worth solving
 
 ---
 

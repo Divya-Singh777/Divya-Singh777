@@ -20,10 +20,9 @@
 
 ## 👩‍💻 About Me
 
-Third-year CS student at MIT-AOE Pune, building in the AI/ML space.
+Third-year Software Engineering student, building in the AI/ML space.
 
-I don't just read about concepts — I build with them, break them, then figure out why. That's how I actually learn. My focus right now is on systems that don't just predict, but deploy, explain, and work for real users. Looking for my first internship where I can contribute and grow fast.
-
+I don't just read about concepts — I build with them, break them, then figure out why. That's how I actually learn. My focus right now is on systems that don't just predict, but deploy, explain, and work for real users. 
 ---
 
 ## 🚀 Projects
@@ -32,9 +31,7 @@ I don't just read about concepts — I build with them, break them, then figure 
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 AccessDiag
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![Team](https://img.shields.io/badge/Team-5_members-blue?style=flat-square)
+### 🔬 Conversational Diagram Explainer for Visually Impaired
 
 Multimodal AI pipeline making NCERT education accessible across languages and abilities. Takes diagram images and vernacular speech as input — returns grade-calibrated spoken explanations in English, Hindi, and Marathi.
 
@@ -48,9 +45,8 @@ Multimodal AI pipeline making NCERT education accessible across languages and ab
 </td>
 <td width="50%" valign="top">
 
-### 🏥 SmartCare
-![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square)
-![Team](https://img.shields.io/badge/Team-4_members-blue?style=flat-square)
+### 🏥 SmartCare - Personalized Elderly Healthcare Platform
+
 
 Real-time health risk classification on structured patient vitals. Classifies risk from Low to Critical with an inference pipeline that sends alerts and escalations.
 
@@ -66,8 +62,7 @@ Real-time health risk classification on structured patient vitals. Classifies ri
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 Fake Review Detection
-![Status](https://img.shields.io/badge/Status-Deployed-success?style=flat-square)
+### 🔍 Fake Review Detection System
 
 NLP pipeline that flags fake e-commerce reviews — and shows *exactly* which words drove the decision using SHAP attribution. Not just a label. A reason.
 
@@ -82,8 +77,6 @@ NLP pipeline that flags fake e-commerce reviews — and shows *exactly* which wo
 <td width="50%" valign="top">
 
 ### 🏙️ Civic Issue Reporting Platform
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![Team](https://img.shields.io/badge/Team-6_members-blue?style=flat-square)
 
 Full-stack platform connecting citizens to municipal systems. Auto-categorises and prioritises complaints, routes them to the right department, and forecasts recurring issues from historical data.
 

@@ -1,12 +1,12 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Divya-Singh777&color=blueviolet&style=flat-square&label=Profile+Views)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&width=600&lines=AI%2FML+Engineer+in+the+making;NLP+%7C+Multimodal+Deep+Learning+%7C+MLOps;Building+real+systems%2C+not+toy+demos;Learning+in+public+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 ---
 
-# Hi, I'm Divya 👋
+# Hi, I'm Divya Singh👋
 
-Computer Engineering student at MIT Academy of Engineering, Pune.  
+Software Engineering student at MIT Academy of Engineering, Pune.  
 I work at the intersection of **NLP, multimodal deep learning, and deployed ML systems**.
 
 Not just notebooks. End-to-end.

@@ -144,16 +144,15 @@ Full-stack platform connecting citizens to municipal systems. Auto-categorises a
 
 ---
 
-
 ## 📫 Let's Connect
 
 I'm currently looking for internship opportunities in AI/ML and Software Engineering.
 If you're working on something interesting, I'd be glad to have a conversation.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divya-singh-368557306)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divi.singh121@gmail.com)
+LinkedIn : [https://linkedin.com/in/divya-singh-368557306](https://www.linkedin.com/in/divya-singh-368557306/)
+Email : divi.singh121@gmail.com
 
-**Open to:** Internships &nbsp;·&nbsp; Research Collaborations &nbsp;·&nbsp; Interesting Problems
+**Open to :** Internships &nbsp;·&nbsp; Research Collaborations &nbsp;·&nbsp; Interesting Problems
 
 ---
 
@@ -161,7 +160,7 @@ If you're working on something interesting, I'd be glad to have a conversation.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%"/>
 
-*B.Tech Computer Engineering &nbsp;·&nbsp; MIT Academy of Engineering, Pune &nbsp;·&nbsp; 2023–2027*
+_He who laughs most, learns best._
 
 *This profile is a record of what I've worked on. It will keep growing.*
 

@@ -21,9 +21,7 @@
 ## 👩‍💻 About Me
 
 A Software Engineering student, building in the AI/ML space.
-
 I don't just read about concepts — I build with them, break them, then figure out why. That's how I actually learn. My focus right now is on systems that don't just predict, but deploy, explain, and work for real users. 
----
 
 ## 🚀 Projects
 

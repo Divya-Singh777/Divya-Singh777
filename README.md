@@ -134,11 +134,11 @@ Full-stack platform connecting citizens to municipal systems. Auto-categorises a
 
 | Certification | Issuer |
 |---|---|
+| Google AI Essentials | Coursera |
 | Machine Learning with Python | IBM |
 | Generative AI: Introduction and Applications | IBM |
 | DevOps, DataOps & MLOps | Coursera |
 | Deep Learning for Developers | Infosys Springboard |
-| Google AI Essentials | Coursera |
 
 ---
 
@@ -149,9 +149,9 @@ Full-stack platform connecting citizens to municipal systems. Auto-categorises a
 - 🐙 &nbsp;**GitHub:** [github.com/Divya-Singh777](https://github.com/Divya-Singh777)
 
 I'm open to:
-- internships in AI/ML and Software engineering
-- research collaborations
-- interesting problems worth solving
+- Internships in AI/ML and Software engineering
+- Research collaborations
+- Interesting problems worth solving
 
 ---
 
@@ -159,7 +159,6 @@ I'm open to:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%"/>
 
-_He who laughs most, learns best._
 
 *This profile is a record of what I've worked on. It will keep growing.*
 

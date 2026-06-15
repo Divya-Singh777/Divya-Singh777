@@ -33,6 +33,7 @@ I don't just read about concepts — I build with them, break them, then figure 
 
 ### 🔬 Conversational Diagram Explainer for Visually Impaired
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Deployed-success?style=flat-square)
 ![Team](https://img.shields.io/badge/Team-5_members-blue?style=flat-square)
 
 Multimodal AI pipeline making NCERT education accessible across languages and abilities. Takes diagram images and vernacular speech as input — returns grade-calibrated spoken explanations in English, Hindi, and Marathi.
@@ -49,7 +50,7 @@ Multimodal AI pipeline making NCERT education accessible across languages and ab
 <td width="50%" valign="top">
 
 ### 🏥 SmartCare - Personalized Elderly Healthcare Platform
-![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 ![Team](https://img.shields.io/badge/Team-4_members-blue?style=flat-square)
 
 Real-time health risk classification on structured patient vitals. Classifies risk from Low to Critical with an inference pipeline that sends alerts and escalations.
@@ -68,7 +69,7 @@ Real-time health risk classification on structured patient vitals. Classifies ri
 <td colspan="2" valign="top">
 
 ### 🔍 Fake Review Detection System
-![Status](https://img.shields.io/badge/Status-Deployed-success?style=flat-square)
+![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square)
 
 NLP pipeline that flags fake e-commerce reviews — and shows *exactly* which words drove the decision using SHAP attribution. Not just a label. A reason.
 

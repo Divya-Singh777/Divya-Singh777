@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Divya%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
@@ -5,7 +6,6 @@
 ### Software Engineering Student &nbsp;·&nbsp; AI & Machine Learning Enthusiast
 
 *I'm still learning. But I build while I learn.*
-
 
 <br>
 
@@ -21,7 +21,10 @@
 ## 👩‍💻 About Me
 
 A Software Engineering student, building in the AI/ML space.
-I don't just read about concepts — I build with them, break them, then figure out why. That's how I actually learn. My focus right now is on systems that don't just predict, but deploy, explain, and work for real users. 
+
+I don't just read about concepts — I build with them, break them, then figure out why. That's how I actually learn. My focus right now is on systems that don't just predict, but deploy, explain, and work for real users.
+
+---
 
 ## 🚀 Projects
 
@@ -43,6 +46,7 @@ Multimodal AI pipeline making NCERT education accessible across languages and ab
 `PyTorch` `Transformers` `Whisper` `IndicTrans2` `FastSpeech 2` `HiFi-GAN`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🏥 SmartCare - Personalized Elderly Healthcare Platform
@@ -60,8 +64,9 @@ Real-time health risk classification on structured patient vitals. Classifies ri
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🔍 Fake Review Detection System
 ![Status](https://img.shields.io/badge/Status-Deployed-success?style=flat-square)
@@ -76,22 +81,6 @@ NLP pipeline that flags fake e-commerce reviews — and shows *exactly* which wo
 `Scikit-learn` `TF-IDF` `SHAP` `Streamlit` `Python`
 
 </td>
-<td width="50%" valign="top">
-
-### 🏙️ Civic Issue Reporting Platform
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![Team](https://img.shields.io/badge/Team-6_members-blue?style=flat-square)
-
-Full-stack platform connecting citizens to municipal systems. Auto-categorises and prioritises complaints, routes them to the right department, and forecasts recurring issues from historical data.
-
-**Highlights**
-- ML-based priority scoring
-- Heatmap + geo-tagged dashboards
-- Predictive infrastructure analytics
-
-`Python` `Node.js` `Google Maps API` `NLP` `ML`
-
-</td>
 </tr>
 </table>
 
@@ -99,13 +88,13 @@ Full-stack platform connecting citizens to municipal systems. Auto-categorises a
 
 ## 🧰 Technical Skills
 
-**Languages**
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**ML / AI Frameworks**
+### ML / AI Frameworks
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -113,7 +102,7 @@ Full-stack platform connecting citizens to municipal systems. Auto-categorises a
 ![SHAP](https://img.shields.io/badge/SHAP-6C63FF?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**Specialisations**
+### Specialisations
 
 ![NLP](https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge)
@@ -122,7 +111,7 @@ Full-stack platform connecting citizens to municipal systems. Auto-categorises a
 ![MLOps](https://img.shields.io/badge/MLOps-EA4335?style=for-the-badge)
 ![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-D85A30?style=for-the-badge)
 
-**Backend & Deployment**
+### Backend & Deployment
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -144,12 +133,12 @@ Full-stack platform connecting citizens to municipal systems. Auto-categorises a
 
 ## 📫 Reach Me
 
-- 📧 &nbsp;**Email:** [divi.singh121@gmail.com](mailto:divi.singh121@gmail.com)
-- 💼 &nbsp;**LinkedIn:** [linkedin.com/in/divya-singh-368557306](https://linkedin.com/in/divya-singh-368557306)
-- 🐙 &nbsp;**GitHub:** [github.com/Divya-Singh777](https://github.com/Divya-Singh777)
+- 📧 **Email:** [divi.singh121@gmail.com](mailto:divi.singh121@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/divya-singh-368557306](https://linkedin.com/in/divya-singh-368557306)
+- 🐙 **GitHub:** [github.com/Divya-Singh777](https://github.com/Divya-Singh777)
 
 I'm open to:
-- Internships in AI/ML and Software engineering
+- Internships in AI/ML and Software Engineering
 - Research collaborations
 - Interesting problems worth solving
 
@@ -159,7 +148,7 @@ I'm open to:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%"/>
 
-
 *This profile is a record of what I've worked on. It will keep growing.*
 
 </div>
+```
